@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pixel Art Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🎨 Pixel Art Maker</h1>
+  
+  <div class="controls">
+    <label for="colorPicker">Color:</label>
+    <input type="color" id="colorPicker" value="#000000">
+    
+    <label for="gridSize">Grid Size: <span id="sizeValue">16x16</span></label>
+    <input type="range" id="gridSize" min="8" max="32" value="16">
+    
+    <button id="clearBtn">Clear Canvas</button>
+  </div>
+
+  <div id="gridContainer"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
