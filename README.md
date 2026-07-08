@@ -16,8 +16,3 @@ A colorful, interactive Pixel Art Studio built with vanilla HTML, CSS, and JavaS
 - **CSS3** - Layout, Animations, & Custom Styling
 - **JavaScript (ES6)** - DOM Manipulation & Event Handling
 
-## 🚀 How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/pixel-art-maker.git](https://github.com/YOUR_USERNAME/pixel-art-maker.git)
